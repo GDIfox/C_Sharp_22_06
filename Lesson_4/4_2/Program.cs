@@ -22,7 +22,7 @@ Console.WriteLine(Count(A));
 
 // с произведением
 
-// nt SumNum(int num)
+// int SumNum(int num)
 // {
 //     int all_sum = 1;
 //     for (int i = 1; i <= num; i++)
